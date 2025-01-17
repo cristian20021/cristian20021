@@ -15,7 +15,7 @@
 ## LeetCode Profile Statistics
 
 
-**User:** [cristianciobanu](https://leetcode-stats-api.herokuapp.com/cristianciobanu)
+**User:** [cristianciobanu](https://leetcode.com/u/cristianciobanu/)
 
 ### Overview
 ![LeetCode Stats](https://leetcard.jacoblin.cool/cristianciobanu?theme=dark&font=Abel&ext=heatmap)
