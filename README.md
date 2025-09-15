@@ -7,10 +7,9 @@
 
 
 # 💫 About Me:
-- ⚡ I'm currently a Software and Systems Engineering Student
-- 🔭 I’m currently working on exciting projects like an Arduino Spotify NFC player and a hotel management system, alongside other innovative software engineering challenges.
-- 🌱 I’m currently exploring frameworks like Flask and React, while deepening my knowledge in AI, DevOps, and AWS.
-- 👯 I’m looking to collaborate on innovative projects, especially those related to study planner apps or data analysis.
+-  I'm a Software and Systems Engineering Student
+-  I’m currently exploring frameworks like Flask and React, while deepening my knowledge in AI, DevOps, and AWS.
+
 
 ## LeetCode Profile Statistics
 
@@ -31,12 +30,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cristian20021&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cristian20021&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian20021&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=cristian20021&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
