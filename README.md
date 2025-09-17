@@ -17,7 +17,7 @@
 **User:** [cristianciobanu](https://leetcode.com/u/cristianciobanu/)
 
 ### Overview
-![LeetCode Stats](https://leetcard.jacoblin.cool/cristianciobanu?theme=dark&font=Abel&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/cristianciobanu?theme=dark&font=Abel=heatmap)
 
 
 
